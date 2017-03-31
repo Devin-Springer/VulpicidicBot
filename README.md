@@ -1,0 +1,2 @@
+# VulpicidicBot
+Discord Bot
